@@ -5,7 +5,7 @@
         </a>
 
         <ul>
-            <li><a href="${ctx}/">东方娇子</a></li>
+            <li><a href="${ctx}/">神话联盟</a></li>
             <li><a href="${ctx}/news">新闻公告</a></li>
             <li><a href="${ctx}/cheats">攻略秘籍</a></li>
             <li><a href="${ctx}/car">赛车大全</a></li>
